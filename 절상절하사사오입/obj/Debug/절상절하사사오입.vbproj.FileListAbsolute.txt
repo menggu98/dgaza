@@ -1,0 +1,12 @@
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.vbprojAssemblyReference.cache
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.Form1.resources
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.Resources.resources
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.vbproj.GenerateResource.cache
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.vbproj.CoreCompileInputs.cache
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\bin\Debug\절상절하사사오입.exe.config
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\bin\Debug\절상절하사사오입.exe
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\bin\Debug\절상절하사사오입.pdb
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\bin\Debug\절상절하사사오입.xml
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.exe
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.xml
+C:\Users\myeng\source\repos\절상절하사사오입\절상절하사사오입\obj\Debug\절상절하사사오입.pdb
